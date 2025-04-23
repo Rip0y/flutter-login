@@ -70,7 +70,7 @@ class _Login2ScreenState extends State<Login2Screen> {
                   children: [
                     Icon(Icons.circle, color: Colors.black),
                     SizedBox(width: 8),
-                    Text('Biru'),
+                    Text('Hitam'),
                   ],
                 ),
               ),
